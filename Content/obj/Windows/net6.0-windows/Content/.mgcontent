@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Background/GameScreen.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Background/MainMenu.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Font.spritefont</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Other/Bullet.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Other/Button.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Other/Explosion.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Other/Scum.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Other/Zombie Track.mp3</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Vehicle/Player 2.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Vehicle/Player.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Zombie/Enemy_1.png</File>
+    <File>C:/Users/priya/Desktop/Prog 2370 Game Development/MonoGames/ZombieLand/Content/Zombie/Enemy_2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
